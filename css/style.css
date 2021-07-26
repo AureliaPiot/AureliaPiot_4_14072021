@@ -33,6 +33,9 @@ input:valid , textarea:valid{
     z-index: 100000;
     background: #FFFFFF url("../img/pageload-spinner.gif") no-repeat center center;
 }
+.star{
+    color:red;
+}
 .quote , .contact-adress{
     font-size: 1.2rem;
 }
