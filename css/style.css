@@ -20,9 +20,10 @@ a:hover {
     cursor: pointer;
 }
 
-input:valid{
+input:valid , textarea:valid{
     border: 1px solid green;
 }
+
 
 #page-loading-blocs-notifaction {
     position: fixed;
